@@ -1,6 +1,6 @@
 # Скраппер данных с сайта collectomania.ru
 Реализовано на xlml и Beautifil Soup 4. Реализации идентичны по результатам работы.
 ## Как работает?
-1. Запустите bs4_scrapper/main_bs4.py или xpath_scrapper/main_xpath.py 
+1. Запустите `bs4_scrapper/main_bs4.py` или `lxml_scrapper/main_lxml.py` 
 2. Введите через пробел ссылки на страницы каталога
 3. Получите информацию
